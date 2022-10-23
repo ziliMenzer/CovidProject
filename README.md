@@ -1,5 +1,7 @@
 # CovidProject
 <p>
 הי אני לא כל כך יודעת איךמתעסקים עם הקובץ redmea ולכן אכתוב הסבר קצר ללא התמונות</br>
-השתמשתי בטכנולוגיות visual sudio ן-visual sudio code וכן sql-server-management  
+השתמשתי בטכנולוגיות visual sudio ו-visual sudio code וכן sql-server-management 
+האתר מורכב ממסך הבית שבו מוצגים כל הלוקוחות וישנם 4 אפשרויות: מחיקת לקוח, עריכת לקוח, הוספת לקוח וצפיה בפרטי לקוח
+
 <p/>
